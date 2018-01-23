@@ -9,7 +9,7 @@ public class AutomatedDecisions {
 		System.out.println("Hi there. What's your name? ");
 		String name = input.next();
 		
-		System.out.printf("%s - that's a beautiful name.\n", name);
+		System.out.printf("%s - what a beautiful name.\n", name);
 
 		do {
 			do {
